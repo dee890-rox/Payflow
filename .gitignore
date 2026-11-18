@@ -20,3 +20,9 @@ target/
 
 # Logs
 *.log
+node_modules/
+FrontEnd/node_modules/
+FrontEnd/dist/
+target/
+.env
+.env.*
