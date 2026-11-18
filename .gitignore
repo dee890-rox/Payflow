@@ -1,0 +1,22 @@
+
+# Maven
+target/
+
+# Java
+*.class
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# VS Code
+.vscode/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
